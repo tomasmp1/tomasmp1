@@ -23,11 +23,4 @@
 
 ---
 
-### ⚙️ Technical Skills
-**Languages:** Python, R, SQL  
-**Libraries:** pandas, NumPy, scikit-learn, statsmodels, seaborn, matplotlib  
-**Tools:** Excel, Tableau, Jupyter, Snowflake
-
----
-
 ⭐ *Currently building my portfolio here on GitHub — more projects coming soon.*
