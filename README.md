@@ -16,7 +16,7 @@
 ### 📂 Featured Projects
 | Project | Description | Tools |
 |----------|--------------|-------|
-| [**Optimising High-Dimensional Logistic Regression via Majorization-Minimization**](https://github.com/tomasmp1/thesis-logistic-mm) | Undergraduate thesis evaluating high-dimensional logistic regression via Majorisation–Minimisation, compared with Gradient Descent and Newton–Raphson under optional regularisation. | Python, pandas, NumPy, scikit-learn, seaborn, matplotlib |
+| [**Optimising High-Dimensional Logistic Regression via Majorisation-Minimisation**](https://github.com/tomasmp1/thesis-logistic-mm) | Undergraduate thesis evaluating high-dimensional logistic regression via Majorisation–Minimisation, compared with Gradient Descent and Newton–Raphson under optional regularisation. | Python, pandas, NumPy, scikit-learn, seaborn, matplotlib |
 | [**Financial Risk Modelling (Copulas)**](https://github.com/tomasmp1/copula-competing-risks) | Simulation of loan prepayment vs default using Clayton copula; parameters estimated via Maximum Likelihood Estimation and validated with bootstrap resampling. | R, ggplot2 |
 
 ---
