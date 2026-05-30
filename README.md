@@ -9,7 +9,6 @@
 - Passionate about using mathematics and programming to solve data-driven problems.  
 - Two data science internships: **forecasting & segmentation (Python, SQL)** and **predictive modelling (R)**.  
 - Experience building models end-to-end — from **data cleaning and exploratory analysis to model training, evaluation, and visualisation**.  
-- Looking for **graduate opportunities in Data Science** starting **2026**.
 
 ---
 
